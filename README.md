@@ -8,12 +8,12 @@ UI为 tkinter
 
 ![界面展示](https://github.com/RashidaKAKU/TTS/blob/main/Snipaste_2023-04-15_15-39-20.png "界面展示")
 
-B站视频展示
-<https://reurl.cc/AdakoY>
+B站视频展示<https://www.bilibili.com/video/av442548077/>
 
 # 常见问题
 
 ## .py 文件无法正常运行
+
 一般是由于缺少运行库，可以尝试使用 `pip install -r requirements.txt` 解决
 
 ## Linux 系统缺少 espeak
