@@ -1,5 +1,7 @@
 # Rashida TTS
 
+## 欢迎使用
+
 > 注意：TXT编码格式需为UTF8
 
 基于PYTTSX3的文本转语音工具
@@ -10,13 +12,13 @@ UI为 tkinter
 
 B站视频展示<https://www.bilibili.com/video/av442548077/>
 
-# 常见问题
+## 常见问题
 
-## .py 文件无法正常运行
+### .py 文件无法正常运行
 
 一般是由于缺少运行库，可以尝试使用 `pip install -r requirements.txt` 解决
 
-## Linux 系统缺少 espeak
+### Linux 系统缺少 espeak
 
 ArchLinux 以及基于此系统的发行版 Linux 用户可以通过 yay 安装 AUR 包 `espeak` 解决这个问题
 
