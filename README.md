@@ -24,4 +24,4 @@ ArchLinux 以及基于此系统的发行版 Linux 用户可以通过 yay 安装 
 
 Ubuntu 系统可以通过安装 `espeak` 解决
 
-如果尚未解决，可以尝试重新安装 `espeak` 模块
+如果尚未解决，可以尝试重新安装 `pyttsx3` 模块
